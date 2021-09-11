@@ -4,8 +4,9 @@ import ReactDOM from 'react-dom';
 //import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.css'
-import './Component/shared/header.css'
 import 'bootstrap/dist/js/bootstrap.bundle'
+import './Component/shared/header.css'
+import 'font-awesome/css/font-awesome.min.css'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
